@@ -97,7 +97,7 @@ This project performs Big Data analysis on a retail sales dataset using Apache S
 
 ### ✍️ Author
 
-## Author: Aquil Iqbal
+## Author: Akshad VIJ
 ## Course: Open Source Tools for Data Science
 
 ### 📜 License
